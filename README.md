@@ -2,7 +2,9 @@
 - 👀 I’m interested in technology, software development.
 - 🌱 I’m currently learning web development.
 - 
-- 📫 How to reach me t.me/@NahumD  x.com/@nahumDM
+- 📫 How to reach me
+    www.telegram.com/@NahumD
+    www.Twitter.com/@nahumDM
   
 
 <!---
