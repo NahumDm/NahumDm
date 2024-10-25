@@ -1,7 +1,8 @@
- 👋 Hi, I’m @NahumDm
-- 👀 I’m interested in technology, software development.
-- 🌱 I’m currently learning web development.
-- #Technerd
+ 👋 Hi, I’m NAHOM DESTA
+- 👀 I’m interested in tech about software development, AI, Robotics...
+- Flutter Dev
+- Creative Developer
+  
 - 📫 How to reach me-
 -  www.telegram.com/@NahumD
 - 🫴🏾 www.Twitter.com/@nahumDM
