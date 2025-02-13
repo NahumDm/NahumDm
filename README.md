@@ -28,7 +28,7 @@ I love building impactful applications that solve real-world problems.
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-desta-mengesha)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DmNahum)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NahomDm)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NahumDm)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destanahum2@gmail.com)&nbsp;&nbsp;
 
 
