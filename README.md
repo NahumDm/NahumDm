@@ -29,8 +29,6 @@ I love building impactful applications that solve real-world problems. **For Fre
  AND ![AI Projects](https://img.shields.io/badge/AI%20Projects-4B0082?style=for-the-badge&logo=openai&logoColor=white)
 <br>
 
-## 📂 Featured Projects
-🔹**Calculator & Converter** – Number system Converter & arithmetic calculator 🧮
 
 ### 📊 GitHub Stats
 ![Nahom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahumDm&show_icons=true&theme=tokyonight)
