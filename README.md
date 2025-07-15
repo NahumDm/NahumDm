@@ -2,7 +2,7 @@
 👨‍💻 Software Engineer | Flutter Developer | Machine Learning Enthusiast
 
  **Welcome to my GitHub!** 
-I’m a Software Engineering student at Arba Minch University with a passion for mobile development, data science, and AI.
+I’m a Software Engineering student at Arba Minch University with a passion for mobile development, and AI.
 I love building impactful applications that solve real-world problems. **For Freelancing Jobs**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomdestamg@gmail.com)&nbsp;&nbsp; me.
 
