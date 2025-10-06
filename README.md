@@ -4,7 +4,7 @@
  **Welcome to my GitHub!** 
 I’m a Software Engineering student at Arba Minch University with a passion for mobile development, and AI.
 I love building impactful applications that solve real-world problems. **For Freelancing Jobs**
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomdestamg@gmail.com)&nbsp;&nbsp; me.
+[![Email](https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomdestamg@gmail.com)&nbsp;&nbsp; me.
 
 
 
@@ -29,16 +29,18 @@ I love building impactful applications that solve real-world problems. **For Fre
  AND ![AI Projects](https://img.shields.io/badge/AI%20Projects-4B0082?style=for-the-badge&logo=openai&logoColor=white)
 <br>
 
+![](https://github-readme-stats.vercel.app/api?username=NahumDm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NahumDm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NahumDm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahumDm&layout=compact&theme=tokyonight)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NahumDm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-desta-mengesha)&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DmNahum)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-desta-mengesha)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DmNahum)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NahumDm)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destanahum2@gmail.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destanahum2@gmail.com)&nbsp;&nbsp;
 
 
