@@ -30,18 +30,6 @@ I love building impactful applications that solve real-world problems. **For Fre
 <br>
 
 
-### 📊 GitHub Stats
-![Nahom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahumDm&show_icons=true&theme=tokyonight)
-<p>
-  <a href="https://vaunt.dev">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/{NahmDm}/contributions?format=svg&private=true"
-      width="350"
-      title="Includes public and private contributions"
-    />
-  </a>
-</p>
-
 ### 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahumDm&layout=compact&theme=tokyonight)
 
