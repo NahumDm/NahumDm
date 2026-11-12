@@ -1,46 +1,58 @@
-## ![ConyBrownGIF](https://github.com/user-attachments/assets/e7ad10b1-1f51-4c4c-a373-0714da85c0cd) **there**, I’m Nahom Desta!
-👨‍💻 Software Engineer | Flutter Developer | Machine Learning Enthusiast
+# Nahom Desta
 
- **Welcome to my GitHub!** 
-I’m a Software Engineering student at Arba Minch University with a passion for mobile development, and AI.
-I love building impactful applications that solve real-world problems. **For Freelancing Jobs**
-[![Email](https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomdestamg@gmail.com)&nbsp;&nbsp; me.
+**Backend & Mobile Engineer** · Building as [Narke](https://narke.tech)
 
+I build Django APIs, Flutter apps, and document-grounded AI tools. My work spans restaurant operations, field maintenance, and language preservation, with a focus on reliable data, clear permissions, and software that works beyond the demo.
 
+[Portfolio](https://narke.tech) · [Email](mailto:nahomdesta.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/nahom-desta-mengesha) · [X](https://x.com/DmNahum)
 
----
-## 🌟 About Me
-🔹**Mobile Developer** –
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
- <br>
- 
-🔹**AI & Machine Learning Enthusiast** – ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-8A2BE2?style=for-the-badge)
- ![Model Training](https://img.shields.io/badge/Model%20Training-8A2BE2?style=for-the-badge)
-<br>
+## Selected work
 
-🔹**Programming** – ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- <br>
- 
-🔹**Currently Learning** –
-![Currently Learning – Advanced Flutter](https://img.shields.io/badge/Advanced%20Flutter-8A2BE2?style=for-the-badge)  ![Currently Learning – Python for ML](https://img.shields.io/badge/Python%20for%20ML-8A2BE2?style=for-the-badge)
+### [Dawuro Proverbs](https://github.com/NahumDm/Dawurogna-figurative-speaking)
 
+An offline Flutter app preserving Dawuro proverbs with Amharic translations, alphabet-based browsing, favorites, and a daily proverb.
 
-🔹**Open to Collaborations** – ![Mobile Projects](https://img.shields.io/badge/Mobile%20Projects-2E8B57?style=for-the-badge&logo=android&logoColor=white)
- AND ![AI Projects](https://img.shields.io/badge/AI%20Projects-4B0082?style=for-the-badge&logo=openai&logoColor=white)
-<br>
+**Flutter · Dart · Provider · Hive**
 
-![](https://github-readme-stats.vercel.app/api?username=NahumDm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NahumDm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NahumDm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Available on Google Play](https://play.google.com/store/apps/details?id=com.narke.dawuro_proverb)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NahumDm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### [Barkot](https://github.com/NahumDm/barkot_internal_system)
 
----
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-desta-mengesha)&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DmNahum)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NahumDm)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destanahum2@gmail.com)&nbsp;&nbsp;
+An internal operations system for a bar and restaurant in Addis Ababa: point of sale, inventory, finance, payroll, and reports. Backend-enforced roles, an append-only stock ledger, and audit trails keep business records accountable.
 
+**Django · DRF · PostgreSQL · Next.js · TypeScript · Docker**
 
+Production stack rehearsed locally; VPS deployment pending client decisions.
+
+### [SSGI FIX](https://github.com/NahumDm/SSGI-Fix)
+
+A Flutter field-maintenance application for reporting issues at remote satellite sites, with structured reporting and technician/supervisor workflows.
+
+**Flutter · Dart · Firebase**
+
+### [LexiAI](https://github.com/NahumDm/LexiAI)
+
+A retrieval-augmented system for legal and tax documents. It ingests documents, retrieves relevant passages, and generates answers with source citations. Background workers handle document embedding, while a React frontend provides the user and staff interfaces.
+
+**Python · Django · DRF · PostgreSQL · Celery · Redis · React · Mistral**
+
+## What I work with
+
+- **Backend:** Python, Django, Django REST Framework, PostgreSQL, REST API design, authentication, and permissions.
+- **Mobile:** Flutter, Dart, local persistence, and offline-first application design.
+- **Web:** React, Next.js, and TypeScript.
+- **AI systems:** document ingestion, embeddings, semantic retrieval, and source-grounded generation.
+- **Delivery:** Docker, Nginx, GitHub Actions, pytest, Vitest, and Playwright.
+
+## How I approach engineering
+
+- Keep business rules and access control enforced on the server.
+- Make important operations traceable and safe to retry.
+- Treat unreliable connections and failure states as part of the design.
+- Test behavior across the API and interface, and document deployment and recovery.
+
+## Let's build something useful
+
+For backend systems, Flutter applications, or document AI projects, [email me](mailto:nahomdesta.dev@gmail.com) with the problem, constraints, and timeline. For engineering opportunities, include the role and team context.
+
+[Explore the project case studies](https://narke.tech/#work)
